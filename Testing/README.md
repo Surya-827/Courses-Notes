@@ -17,8 +17,12 @@ A curated list of awesome test automation frameworks, tools, libraries, and soft
 
 Also we are supporting and looking for contribution for project:
 
-* [practical test automation by examples](https://github.com/Surya-827/Courses-Notes/tree/master/Testing)
+* [practical test automation by examples](https://github.com/atinfo/at.info-knowledge-base)
 
-# [Contribution](https://github.com/Surya-827/Courses-Notes/tree/master/Testing/blob/master/CONTRIBUTING.md)
+# Notifications
+Press [like](https://github.com/atinfo/awesome-test-automation/stargazers) to support us and [watch](https://github.com/atinfo/awesome-test-automation/subscription) repository to receive updates.
+
+# [Contribution](https://github.com/atinfo/awesome-test-automation/blob/master/CONTRIBUTING.md)
 
 Feel free to fork and add new content! Your contributions are always welcome! 
+
